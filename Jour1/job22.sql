@@ -1,0 +1,1 @@
+SELECT nom, prenom, email, MIN(age) FROM etudiant;

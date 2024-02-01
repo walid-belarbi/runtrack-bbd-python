@@ -1,0 +1,1 @@
+SELECT nom, prenom, email, MAX(age) FROM etudiant;
